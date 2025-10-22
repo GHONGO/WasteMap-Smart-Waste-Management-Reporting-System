@@ -189,35 +189,11 @@ REACT_APP_MAPBOX_TOKEN=your_mapbox_token_optional
 - Admin Dashboard
 - Mobile Responsive Views
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-- [Your Name/Team Members]
-
-## 🙏 Acknowledgments
-
-- OpenStreetMap for map data
-- React Leaflet team
-- MongoDB for geospatial features
-- The MERN stack community
-
----
-
-**⭐ Star this repo if you find it helpful!**
-
 ---
 
 ## 🎯 Next Development Steps
