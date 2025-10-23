@@ -19,8 +19,6 @@ A full-stack web application for reporting and managing waste issues in communit
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
