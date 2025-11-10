@@ -11,6 +11,10 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 ---
+### DEPLOYMENT
+- The frontend is deployed on Netlify.
+- The live site can be accessed on: https://wastemap.netlify.app/
+- The backend is deployed using render.
 
 ### 🌍 SDG-Aligned Project
 **WasteMap** addresses:
