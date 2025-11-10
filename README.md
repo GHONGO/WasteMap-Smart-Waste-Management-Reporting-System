@@ -11,10 +11,11 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 ---
-### DEPLOYMENT
+### DEPLOYMENT URL's
 - The frontend is deployed on Netlify.
 - The live site can be accessed on: https://wastemap.netlify.app/
 - The backend is deployed using render.
+- The pitchdeck is created using Canva and can be accessed using this link: https://www.canva.com/design/DAG4Slp5YaI/Quz7Tn8_M5u1jExouYivrQ/edit?utm_content=DAG4Slp5YaI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### 🌍 SDG-Aligned Project
 **WasteMap** addresses:
